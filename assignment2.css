@@ -1,0 +1,89 @@
+.fname{
+    margin-left: 50px;
+}
+.lname{
+    margin-left: 53px;
+}
+.dob{
+    margin-left: 27px;
+}
+.email{
+    margin-left: 75px;
+}
+.mobilenum{
+    margin-left: 10px;
+}
+
+p>span{
+    word-spacing: 80px;
+}
+
+h1{
+    color: #6c5cca;
+}
+.add{
+    margin-left: 147px; 
+}
+.city{
+    margin-left: 106px; 
+}
+.pin{
+    margin-left: 67px; 
+}
+.country{
+    margin-left: 63px; 
+}
+.state{
+    margin-left: 93px; 
+}
+.qua{
+    margin-left:150px;
+}
+#courses{
+    margin-left: 50px;
+}
+h2{
+    color: green;
+}
+h2~p{
+    color: #6c5cca;
+}
+h2>p>a{
+    color: grey;
+}
+.form{
+    background-color :#6c5cca;
+    color: white;
+    width: 1000px;
+    margin: 0 auto;
+    height: 900px;
+    border: 2px;
+    border-radius: 3px;
+    
+}
+p
+{
+    margin-left: 35px;
+}
+.fname
+{
+margin-top: 30px;
+
+}
+#Buttons
+{
+ 
+    margin-top: 60px;
+}
+button:hover
+{
+    background-color: black;
+    color: blanchedalmond;
+    font-size: x-large;
+}
+button
+{
+    height: 50px;
+    width: 150px;
+    font-size: large;
+}
